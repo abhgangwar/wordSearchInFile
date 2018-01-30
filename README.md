@@ -4,7 +4,7 @@
 ## Description
 
 ### Search a word in a file
-* `performSearch.js` file allows you to search for a particular word a file.
+#### `performSearch.js` file allows you to search for a particular word a file.
 Example usage: 
 ```sh
 $ node  performSearch.js /path/to/fileToBeSearched
